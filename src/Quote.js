@@ -8,9 +8,9 @@ const Quote = () => {
 	useEffect(
 		() => {
 			async function fetchData() {
-				const response = await fetch('http://quotes.stormconsultancy.co.uk/random.json');
+				const response = await fetch('https://api.quotable.io/random');
 				const data = await response.json();
-				setQuote(data.quote);
+				setQuote(data.content);
 			}
 			fetchData();
 		},
