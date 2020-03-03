@@ -2,7 +2,7 @@
 	"name": "positivity",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "http://gabrielcioci.github.io/programming-quotes/",
+	"homepage": "https://gabrielcioci.github.io/random-quotes/",
 	"dependencies": {
 		"@testing-library/jest-dom": "^4.2.4",
 		"@testing-library/react": "^9.4.1",
