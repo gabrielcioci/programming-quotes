@@ -12,7 +12,6 @@ const App = () => {
 		'omega',
 		'opinions',
 		'people',
-		'road',
 		'socials',
 		'tea',
 		'time'
