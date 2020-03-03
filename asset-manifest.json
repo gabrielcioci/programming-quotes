@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/programming-quotes/static/css/main.9c468699.chunk.css",
+    "main.js": "/programming-quotes/static/js/main.bad1acd6.chunk.js",
+    "main.js.map": "/programming-quotes/static/js/main.bad1acd6.chunk.js.map",
+    "runtime-main.js": "/programming-quotes/static/js/runtime-main.fc72b0df.js",
+    "runtime-main.js.map": "/programming-quotes/static/js/runtime-main.fc72b0df.js.map",
+    "static/js/2.5cd53c91.chunk.js": "/programming-quotes/static/js/2.5cd53c91.chunk.js",
+    "static/js/2.5cd53c91.chunk.js.map": "/programming-quotes/static/js/2.5cd53c91.chunk.js.map",
+    "index.html": "/programming-quotes/index.html",
+    "precache-manifest.30455cf9c6129f9208ad1e79a9a7eed8.js": "/programming-quotes/precache-manifest.30455cf9c6129f9208ad1e79a9a7eed8.js",
+    "service-worker.js": "/programming-quotes/service-worker.js",
+    "static/css/main.9c468699.chunk.css.map": "/programming-quotes/static/css/main.9c468699.chunk.css.map",
+    "static/js/2.5cd53c91.chunk.js.LICENSE.txt": "/programming-quotes/static/js/2.5cd53c91.chunk.js.LICENSE.txt",
+    "static/media/art.svg": "/programming-quotes/static/media/art.a0f3e2f9.svg",
+    "static/media/imagination.svg": "/programming-quotes/static/media/imagination.473c98fe.svg",
+    "static/media/inspire.svg": "/programming-quotes/static/media/inspire.8b09de3d.svg",
+    "static/media/mobiledev.svg": "/programming-quotes/static/media/mobiledev.88556646.svg",
+    "static/media/omega.svg": "/programming-quotes/static/media/omega.06b93080.svg",
+    "static/media/opinions.svg": "/programming-quotes/static/media/opinions.2c3054c1.svg",
+    "static/media/people.svg": "/programming-quotes/static/media/people.41f8b740.svg",
+    "static/media/road.svg": "/programming-quotes/static/media/road.ab129dd2.svg",
+    "static/media/socials.svg": "/programming-quotes/static/media/socials.97968f99.svg",
+    "static/media/tea.svg": "/programming-quotes/static/media/tea.a96d368a.svg",
+    "static/media/time.svg": "/programming-quotes/static/media/time.6e294233.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc72b0df.js",
+    "static/js/2.5cd53c91.chunk.js",
+    "static/css/main.9c468699.chunk.css",
+    "static/js/main.bad1acd6.chunk.js"
+  ]
+}
